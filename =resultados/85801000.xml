@@ -1,0 +1,19 @@
+=<?xml version="1.0" encoding="UTF-8"?>
+<resultado>
+  <endereco>
+    <cep>85801-000</cep>
+    <logradouro>Avenida Brasil</logradouro>
+    <bairro>Centro</bairro>
+    <cidade>Cascavel</cidade>
+    <uf>PR</uf>
+  </endereco>
+  <municipio>
+    <nome>Cascavel</nome>
+    <regiao>Sul</regiao>
+  </municipio>
+  <ia>
+    <resposta>O bairro Centro, em Cascavel - PR, é uma região predominantemente comercial e de serviços. Embora seja possível encontrar algumas residências, a área é conhecida por abrigar uma grande quantidade de lojas, restaurantes, bancos e outros estabelecimentos comerciais.
+
+A Avenida Brasil, especificamente, é uma das principais ruas do Centro de Cascavel e é conhecida por ser um corredor comercial importante, com muitas lojas, restaurantes e outros negócios. Portanto, é provável que o endereço indicado seja mais voltado para atividades comerciais do que residenciais.</resposta>
+  </ia>
+</resultado>
