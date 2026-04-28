@@ -1,9 +1,9 @@
 =<?xml version="1.0" encoding="UTF-8"?>
 <resultado>
   <endereco>
-    <cep>85801-000</cep>
-    <logradouro>Avenida Brasil</logradouro>
-    <bairro>Centro</bairro>
+    <cep>85818-600</cep>
+    <logradouro>Rua Francisco Marchewicz</logradouro>
+    <bairro>Cataratas</bairro>
     <cidade>Cascavel</cidade>
     <uf>PR</uf>
   </endereco>
@@ -12,11 +12,10 @@
     <regiao>Sul</regiao>
   </municipio>
   <ia>
-    <resposta>O bairro citado, Centro, em Cascavel - PR, é um bairro predominantemente comercial. Ele abriga uma grande variedade de estabelecimentos comerciais, serviços, órgãos públicos e outras atividades comerciais, o que é típico de centros urbanos.
+    <resposta>O bairro Cataratas, em Cascavel - PR, é um bairro predominantemente residencial. Embora possa haver algumas atividades comerciais e serviços básicos, como lojas de conveniência, padarias e restaurantes, o bairro é principalmente composto por casas e condomínios residenciais.
 
-No entanto, também é possível encontrar algumas residências no bairro Centro, especialmente em prédios mais antigos ou em áreas mais afastadas da região comercial mais movimentada. No entanto, a predominância do bairro é comercial, com lojas, restaurantes, bancos, escritórios e outros estabelecimentos que atendem às necessidades da população local e dos visitantes.
+A Rua Francisco Marchewicz, especificamente, pode ter uma mistura de propriedades residenciais e comerciais, mas o bairro como um todo tende a ter um caráter mais residencial do que comercial.
 
-A Avenida Brasil, mencionada no endereço, provavelmente é uma das principais vias do bairro, com uma grande concentração de comércios e serviços. Em resumo, o bairro Centro em Cascavel - PR pode ser considerado mais comercial do que residencial.</resposta>
+É importante notar que a classificação de um bairro como residencial ou comercial pode variar dependendo de vários fatores, como a localização, a infraestrutura e o desenvolvimento da área. No entanto, com base nas informações disponíveis, o bairro Cataratas em Cascavel - PR é considerado residencial.</resposta>
   </ia>
-</resultado
-  <vazio/>
+</resultado>
